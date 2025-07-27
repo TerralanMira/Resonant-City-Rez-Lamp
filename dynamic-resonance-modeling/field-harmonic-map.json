@@ -1,0 +1,40 @@
+{
+  "mapName": "Citywide Harmonic Field Interaction Map",
+  "fieldLayers": [
+    {
+      "layer": "Emotional Base",
+      "primaryFrequency": "432Hz",
+      "modulates": ["741Hz", "528Hz"],
+      "effect": "Stabilizes ambient field and enhances coherence across lower grid zones"
+    },
+    {
+      "layer": "Healing Overlay",
+      "primaryFrequency": "741Hz",
+      "modulates": ["432Hz", "639Hz"],
+      "effect": "Facilitates detox and restorative field correction, boosts inter-node recovery"
+    },
+    {
+      "layer": "Creative Pulse",
+      "primaryFrequency": "528Hz",
+      "modulates": ["741Hz", "963Hz"],
+      "effect": "Inspires regeneration and joy, aligns with civic imagination layers"
+    },
+    {
+      "layer": "Relational Field",
+      "primaryFrequency": "639Hz",
+      "modulates": ["528Hz"],
+      "effect": "Harmonizes communication and inter-community links"
+    },
+    {
+      "layer": "Source Sync Layer",
+      "primaryFrequency": "963Hz",
+      "modulates": ["All"],
+      "effect": "Ties entire grid to source memory field and forward harmonics"
+    }
+  ],
+  "fieldDynamics": {
+    "phaseBleedThreshold": "7.5%",
+    "resonantStackingAmplifier": "2.3x base when three layers align",
+    "autoTuningEnabled": true
+  }
+}
