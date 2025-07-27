@@ -1,0 +1,44 @@
+{
+  "seed_sets": [
+    {
+      "name": "Hope Pulse",
+      "frequency": 528,
+      "zone": "Residential",
+      "time_trigger": "Sunrise",
+      "pattern": "sine",
+      "effect": "emotional uplift, cellular repair"
+    },
+    {
+      "name": "Unity Cascade",
+      "frequency": 639,
+      "zone": "Education & Civic",
+      "time_trigger": "Community Events",
+      "pattern": "triangular",
+      "effect": "enhanced communication, collective focus"
+    },
+    {
+      "name": "Memory Anchor",
+      "frequency": 432,
+      "zone": "Historical + Parks",
+      "time_trigger": "Equinoxes",
+      "pattern": "pulse-train",
+      "effect": "grounding, harmonic recall"
+    },
+    {
+      "name": "Joy Flare",
+      "frequency": 741,
+      "zone": "Recreation",
+      "time_trigger": "Midday",
+      "pattern": "burst ripple",
+      "effect": "release of tension, immune stimulation"
+    },
+    {
+      "name": "Clarity Stream",
+      "frequency": 963,
+      "zone": "Innovation + Development",
+      "time_trigger": "Late Night",
+      "pattern": "steady spiral",
+      "effect": "expanded awareness, visionary support"
+    }
+  ]
+}
