@@ -1,0 +1,29 @@
+{
+  "zones": {
+    "education": {
+      "frequency": 639,
+      "lampDensity": "high",
+      "note": "Supports communication, emotional intelligence"
+    },
+    "healing": {
+      "frequency": 741,
+      "lampDensity": "medium",
+      "note": "Promotes cellular regeneration and clarity"
+    },
+    "innovation": {
+      "frequency": 963,
+      "lampDensity": "medium",
+      "note": "Awakens intuition and imagination"
+    },
+    "family": {
+      "frequency": 528,
+      "lampDensity": "high",
+      "note": "Strengthens connection and empathy"
+    },
+    "rejuvenation": {
+      "frequency": 432,
+      "lampDensity": "low",
+      "note": "Baseline coherence, calming base state"
+    }
+  }
+}
