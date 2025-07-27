@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "type": "Rez Lamp",
+      "frequencyTuning": ["432Hz", "528Hz"],
+      "purpose": "Baseline coherence and emotional stabilization",
+      "fieldRadiusMeters": 27,
+      "adaptive": true
+    },
+    {
+      "type": "Harmonic Park",
+      "frequencyTuning": ["741Hz", "528Hz"],
+      "purpose": "Field restoration, grounding and child development",
+      "fieldRadiusMeters": 55,
+      "adaptive": false
+    },
+    {
+      "type": "Memory Tower",
+      "frequencyTuning": ["963Hz"],
+      "purpose": "Source link, harmonic relay, inter-node resonance sync",
+      "fieldRadiusMeters": 111,
+      "adaptive": true
+    },
+    {
+      "type": "Learning Grove",
+      "frequencyTuning": ["639Hz", "528Hz"],
+      "purpose": "Education nodes that promote curiosity, unity, and imagination",
+      "fieldRadiusMeters": 33,
+      "adaptive": true
+    },
+    {
+      "type": "Civic Ring Node",
+      "frequencyTuning": ["432Hz", "963Hz"],
+      "purpose": "Collective tuning, civic agreement, and field-wide rebalance",
+      "fieldRadiusMeters": 88,
+      "adaptive": false
+    }
+  ]
+}
