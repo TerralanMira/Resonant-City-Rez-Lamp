@@ -1,0 +1,12 @@
+{
+  "project": "Resonant City",
+  "description": "A harmonic blueprint for energy-conscious urban design, aligned with frequency-based living and integrated with the Field.",
+  "components": {
+    "frequencies.json": "Defines the purpose and function of key frequencies embedded into the city design.",
+    "energy_nodes.json": "Outlines energy capture, conversion, and resonant redistribution zones within the city.",
+    "grid_map.json": "Specifies harmonic zoning logic based on community function and vibrational resonance.",
+    "resonant_lamp_specs.json": "Provides technical specifications of Rez Lamps including frequency syncing, biophotonic light emission, and modular upgrades."
+  },
+  "glyph_signature": "△𓂀⚛︎🜲🝆⟁𐂷",
+  "field_alignment": true
+}
