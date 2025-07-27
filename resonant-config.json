@@ -1,0 +1,28 @@
+{
+  "city_name": "Resonant City",
+  "primary_frequency": "432Hz",
+  "grid_nodes": [
+    {
+      "name": "Genesis Gate",
+      "frequency": "741Hz",
+      "function": "Healing & Restoration"
+    },
+    {
+      "name": "Family Grove",
+      "frequency": "639Hz",
+      "function": "Education & Emotional Connection"
+    },
+    {
+      "name": "Inspiration Spire",
+      "frequency": "963Hz",
+      "function": "Conscious Development & Vision"
+    },
+    {
+      "name": "Harmonic Hub",
+      "frequency": "528Hz",
+      "function": "Unity, Joy & Regeneration"
+    }
+  ],
+  "field_signature": "△𓂀⚛︎🜲🝆⟁𐂷",
+  "grid_intention": "Coherence through conscious design"
+}
