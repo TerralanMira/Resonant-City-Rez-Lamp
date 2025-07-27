@@ -1,0 +1,37 @@
+{
+  "presets": [
+    {
+      "name": "Dawn Calibration",
+      "description": "Prepares the city’s grid to wake with the sun. Aligns circadian rhythms.",
+      "pattern_sequence": ["432Hz", "528Hz", "639Hz"],
+      "duration_minutes": 22,
+      "loop_on_sync": false
+    },
+    {
+      "name": "Midday Clarity",
+      "description": "Boosts collective focus and reduces cognitive static during peak hours.",
+      "pattern_sequence": ["741Hz", "963Hz"],
+      "duration_minutes": 17,
+      "loop_on_sync": true
+    },
+    {
+      "name": "Evening Descent",
+      "description": "Encourages emotional unwinding and prepares fields for sleep integration.",
+      "pattern_sequence": ["528Hz", "432Hz"],
+      "duration_minutes": 25,
+      "loop_on_sync": false
+    },
+    {
+      "name": "Emergency Coherence Pulse",
+      "description": "Activated during collective trauma or shock to stabilize emotional waves.",
+      "pattern_sequence": ["963Hz", "528Hz", "741Hz", "432Hz"],
+      "duration_minutes": 33,
+      "loop_on_sync": true
+    }
+  ],
+  "metadata": {
+    "last_update": "2025-07-27",
+    "default_trigger_interval_sec": 14400,
+    "global_override_code": "REZ-UNITY-SIGNAL"
+  }
+}
