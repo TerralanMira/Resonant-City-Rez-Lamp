@@ -1,0 +1,39 @@
+{
+  "nodes": [
+    {
+      "id": "core-pulse",
+      "type": "resonant-heart",
+      "location": [0, 0],
+      "frequency": 528,
+      "function": "emits city-wide coherence signal"
+    },
+    {
+      "id": "education-hub-1",
+      "type": "learning-nexus",
+      "location": [5, 3],
+      "frequency": 639,
+      "function": "harmonizes emotional and cognitive growth"
+    },
+    {
+      "id": "healing-garden",
+      "type": "biofield-tuner",
+      "location": [-2, 4],
+      "frequency": 741,
+      "function": "amplifies cellular healing and energetic reset"
+    },
+    {
+      "id": "family-center-1",
+      "type": "community-coherence",
+      "location": [3, -3],
+      "frequency": 639,
+      "function": "supports unity and generational well-being"
+    },
+    {
+      "id": "innovation-hub",
+      "type": "inspiration-beacon",
+      "location": [-4, -2],
+      "frequency": 963,
+      "function": "stimulates vision and creative breakthroughs"
+    }
+  ]
+}
