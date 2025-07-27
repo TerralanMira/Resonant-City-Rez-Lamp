@@ -1,0 +1,23 @@
+{
+  "dailyCycle": {
+    "dawn": "528Hz",
+    "midday": "741Hz",
+    "dusk": "432Hz",
+    "night": "963Hz"
+  },
+  "weeklyCycle": {
+    "Monday": "528Hz",
+    "Tuesday": "639Hz",
+    "Wednesday": "741Hz",
+    "Thursday": "528Hz",
+    "Friday": "852Hz",
+    "Saturday": "963Hz",
+    "Sunday": "432Hz"
+  },
+  "seasonalAdjustments": {
+    "spring": ["639Hz", "528Hz"],
+    "summer": ["852Hz", "963Hz"],
+    "autumn": ["741Hz", "432Hz"],
+    "winter": ["528Hz", "963Hz"]
+  }
+}
