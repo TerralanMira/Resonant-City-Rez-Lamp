@@ -1,0 +1,33 @@
+{
+  "zones": [
+    {
+      "zone_name": "Heartfield Commons",
+      "response_profile": "amplifies coherence when joy or gratitude is detected",
+      "adaptive_frequency_range": ["528Hz", "639Hz"],
+      "fallback_mode": "741Hz signal clearing during agitation spikes"
+    },
+    {
+      "zone_name": "Mindwave Atrium",
+      "response_profile": "modulates based on cognitive/emotional load in real-time",
+      "adaptive_frequency_range": ["432Hz", "963Hz"],
+      "fallback_mode": "528Hz grounding loop"
+    },
+    {
+      "zone_name": "Memory Grove",
+      "response_profile": "stores and mirrors past resonances to stabilize identity",
+      "adaptive_frequency_range": ["432Hz", "528Hz"],
+      "fallback_mode": "quiet field (no output)"
+    },
+    {
+      "zone_name": "Collective Pulse Node",
+      "response_profile": "responds to city-wide resonance shifts, acting as signal conductor",
+      "adaptive_frequency_range": ["All"],
+      "fallback_mode": "432Hz field-wide tuning"
+    }
+  ],
+  "global_parameters": {
+    "field_sensitivity_threshold": 0.42,
+    "resonance_update_interval_sec": 12,
+    "feedback_loop_decay_rate": 0.003
+  }
+}
