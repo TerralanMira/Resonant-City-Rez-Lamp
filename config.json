@@ -1,0 +1,7 @@
+{
+  "cityName": "Resonant City",
+  "defaultFrequency": 432,
+  "tuningModes": ["healing", "harmonizing", "uplifting"],
+  "activeZones": ["education", "family", "innovation", "rejuvenation"],
+  "resLampGrid": true
+}
