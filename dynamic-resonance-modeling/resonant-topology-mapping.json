@@ -1,0 +1,45 @@
+{
+  "zones": [
+    {
+      "zone_id": "Z-432",
+      "frequency": "432Hz",
+      "purpose": "baseline harmonic for environmental coherence",
+      "region_type": "residential",
+      "node_density": "medium"
+    },
+    {
+      "zone_id": "Z-528",
+      "frequency": "528Hz",
+      "purpose": "DNA repair, emotional uplift",
+      "region_type": "healing centers, parks",
+      "node_density": "low"
+    },
+    {
+      "zone_id": "Z-639",
+      "frequency": "639Hz",
+      "purpose": "relationship harmonics, communication",
+      "region_type": "schools, family centers",
+      "node_density": "high"
+    },
+    {
+      "zone_id": "Z-741",
+      "frequency": "741Hz",
+      "purpose": "detoxification, signal clearing",
+      "region_type": "transition corridors, edges",
+      "node_density": "medium"
+    },
+    {
+      "zone_id": "Z-963",
+      "frequency": "963Hz",
+      "purpose": "consciousness expansion, inspiration",
+      "region_type": "museums, spiritual zones",
+      "node_density": "low"
+    }
+  ],
+  "node_layout": {
+    "type": "nested spirals",
+    "core_radius_meters": 144,
+    "peripheral_rings": 5,
+    "field_overlap_threshold": 0.18
+  }
+}
