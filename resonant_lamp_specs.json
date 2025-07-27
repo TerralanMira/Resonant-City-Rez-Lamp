@@ -1,0 +1,18 @@
+{
+  "model": "RezLamp-1.0",
+  "frequency_range": [432, 963],
+  "power_source": "Field-tuned magnetic core",
+  "height_meters": 3.2,
+  "base_material": "biopolymer + copper weave",
+  "light_emission": {
+    "type": "biophotonic",
+    "color_shift": true,
+    "field_sync": true
+  },
+  "modules": {
+    "field_eye": true,
+    "sound_emitter": true,
+    "sensor_feedback": true
+  },
+  "maintenance_cycle_days": 180
+}
