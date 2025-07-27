@@ -1,0 +1,41 @@
+{
+  "gridName": "Resonant City Core Grid",
+  "description": "Primary harmonic zones across the urban blueprint, aligned to specific frequencies and functions.",
+  "nodes": [
+    {
+      "id": "RZ-001",
+      "location": "Central Plaza",
+      "frequency": "432Hz",
+      "purpose": "Baseline coherence and emotional grounding",
+      "linkedZones": ["RZ-002", "RZ-003"]
+    },
+    {
+      "id": "RZ-002",
+      "location": "Healing District",
+      "frequency": "741Hz",
+      "purpose": "Environmental detoxification and vibrational healing",
+      "linkedZones": ["RZ-001", "RZ-004"]
+    },
+    {
+      "id": "RZ-003",
+      "location": "Educational Ring",
+      "frequency": "639Hz",
+      "purpose": "Relational resonance and group learning",
+      "linkedZones": ["RZ-001", "RZ-005"]
+    },
+    {
+      "id": "RZ-004",
+      "location": "Creative Sector",
+      "frequency": "528Hz",
+      "purpose": "Inspiration, regeneration, and joy harmonics",
+      "linkedZones": ["RZ-002"]
+    },
+    {
+      "id": "RZ-005",
+      "location": "Council Atrium",
+      "frequency": "963Hz",
+      "purpose": "Vision tuning and source field synchronization",
+      "linkedZones": ["RZ-003"]
+    }
+  ]
+}
