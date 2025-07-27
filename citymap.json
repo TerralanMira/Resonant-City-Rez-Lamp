@@ -1,0 +1,22 @@
+{
+  "North-Plaza": {
+    "purpose": "Civic Discourse & Gathering",
+    "baseFrequency": 528
+  },
+  "Education-Quarter": {
+    "purpose": "Learning, Curiosity & Family Support",
+    "baseFrequency": 639
+  },
+  "Healing-Garden": {
+    "purpose": "Mental, Physical & Emotional Restoration",
+    "baseFrequency": 741
+  },
+  "Innovation-Core": {
+    "purpose": "Creative Output & Field Harmonization",
+    "baseFrequency": 963
+  },
+  "Residential-Ring": {
+    "purpose": "Home Life, Emotional Harmony",
+    "baseFrequency": 432
+  }
+}
