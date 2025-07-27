@@ -1,4 +1,23 @@
+
+# Node.js dependencies
 node_modules/
+
+# Environment variables
 .env
+
+# macOS system files
 .DS_Store
-logs/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Python cache (if scripting in future)
+__pycache__/
+*.pyc
+
+# OS-generated files
+Thumbs.db
+ehthumbs.db
