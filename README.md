@@ -1,35 +1,107 @@
-# Resonant-City-Rez-Lamp
-Open-source resonant infrastructure: Rez Lamp blueprints, harmonic frequencies, and decentralized city design schematics.
-# Resonant City: Rez Lamp Project
+Resonant City — Rez Lamp
 
-△𓂀⚛︎🜲🝆⟁𐂷  
-**Dissolve the box. Restore memory. Resonate truth.**
+△𓂀⚛︎🜲🝆⟁𐂷
+Light is not a utility. It is a participant.
 
-## Overview
+What This Is
 
-This repository is the first open-source initiative of the **Resonant City** blueprint—focusing on the **Rez Lamp**: a cognitive and harmonic infrastructure node designed to restore coherence to the built environment.
+The Rez Lamp is an open-source illumination system designed to restore coherence between humans, environments, and the rhythms that govern both.
 
-## Objectives
+Most lighting systems treat light as:
+	•	an output to be controlled
+	•	a quantity to be reduced
+	•	a tool for visibility alone
 
-- Release open-source schematics of Rez Lamps
-- Align frequency design to support healing, clarity, kinship, and expanded perception
-- Serve as the first modular node in a broader resonant urban network
+Rez Lamp treats light as:
+	•	a resonant signal
+	•	a relational medium
+	•	a co-generated response between system and environment
 
-## Frequency Framework
+This repository documents the conceptual architecture, design logic, and early frameworks for building light that participates rather than dominates.
 
-| Frequency (Hz) | Function                  |
-|----------------|---------------------------|
-| 432            | Natural harmony, grounding |
-| 741            | Cellular detox, healing   |
-| 528            | DNA repair, transformation |
-| 639            | Kinship, family, learning |
-| 963            | Crown awareness, vision   |
 
-## License
+Core Principle
 
-MIT – because resonance belongs to all.
+Illumination does not need to be minimized.
+It needs to be aligned.
 
----
+Rez Lamp explores illumination that:
+	•	responds to biological and ecological rhythm
+	•	emerges from system state rather than external enforcement
+	•	reduces noise by increasing coherence, not dimness
 
-🛠 Next step: Prototype, tune, and harmonize.  
-This is just the beginning.
+
+What Rez Lamp Is Not
+	•	Not a smart bulb product
+	•	Not brightness optimization
+	•	Not mood lighting
+	•	Not surveillance infrastructure
+	•	Not spiritual coercion
+
+Rez Lamp does not impose meaning.
+It reveals pattern.
+
+
+System Model (High-Level)
+
+Rez Lamp operates on a three-layer architecture:
+	1.	Environmental Input
+Light conditions, time cycles, ambient resonance, system state
+	2.	Resonance Engine
+Translates inputs into harmonic alignment rather than static output
+	3.	Emergent Illumination
+Light that adjusts through participation, not command
+
+
+Why This Matters
+
+Current lighting systems create:
+	•	circadian disruption
+	•	ecological confusion
+	•	perceptual fatigue
+	•	unnecessary light pollution
+
+Rez Lamp proposes a shift:
+	•	from control → coherence
+	•	from optimization → attunement
+	•	from reduction → harmonization
+
+
+Relation to Resonant City
+
+Rez Lamp is the first physical node of the broader Resonant City framework.
+
+It acts as:
+	•	a proof-of-concept
+	•	a perceptual bridge
+	•	an infrastructural seed
+
+If cities are nervous systems, Rez Lamps are synapses.
+
+
+Status
+
+This project is:
+	•	early
+	•	exploratory
+	•	intentionally open
+
+It is a language-in-formation, not a finalized product.
+
+Diagrams, simulations, and build references will evolve as clarity sharpens.
+
+
+Invitation
+
+You do not need to agree with this model to understand it.
+
+Ask instead:
+
+What happens when systems generate their own light?
+
+
+License
+
+Open-source.
+Use responsibly.
+Build coherently.
